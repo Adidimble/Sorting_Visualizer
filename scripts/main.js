@@ -73,7 +73,7 @@ function runalgo()
     {
         case "Bubble":Bubble();// implemented
                         break;
-        case "Selection":Selection_sort(); //not implemented 
+        case "Heap":Heap(); //implemented 
                         break;
         case "Insertion":Insertion();//not implemented 
                         break;
@@ -81,7 +81,7 @@ function runalgo()
                         break;
         case "Quick":Quick();//not implemented 
                         break;
-        case "Heap":Heap();//not implemented 
+        case "Selection":Selection_sort();// Not implemented 
                         break;
     }
 }
