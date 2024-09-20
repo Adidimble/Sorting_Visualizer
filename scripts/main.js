@@ -81,7 +81,7 @@ function runalgo()
                         break;
         case "Quick":Quick();//not implemented 
                         break;
-        case "Selection":Selection_sort();// Not implemented 
+        case "Selection":Selection_sort();//implemented 
                         break;
     }
 }
