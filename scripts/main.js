@@ -75,7 +75,7 @@ function runalgo()
                         break;
         case "Heap":Heap(); //implemented 
                         break;
-        case "Insertion":Insertion();//not implemented 
+        case "Insertion":Insertion();//implemented 
                         break;
         case "Merge":Merge();//not implemented 
                         break;
