@@ -77,9 +77,9 @@ function runalgo()
                         break;
         case "Insertion":Insertion();//implemented 
                         break;
-        case "Merge":Merge();//not implemented 
+        case "Merge":Merge();//implemented 
                         break;
-        case "Quick":Quick();//not implemented 
+        case "Quick":Quick();//implemented 
                         break;
         case "Selection":Selection_sort();//implemented 
                         break;
